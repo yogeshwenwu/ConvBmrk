@@ -8,7 +8,7 @@ import json
 import time
 
 # Paths
-data_folder = "/mnt/mydisk/yogesh/ConvBenchmark/animals"
+data_folder = "/mnt/mydisk/yogesh/ConvBmrk/animals"
 labels_path = "imagenet-simple-labels.json"
 
 # Load ResNet-50 model
